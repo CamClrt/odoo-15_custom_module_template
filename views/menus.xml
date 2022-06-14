@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Top menu item -->
+    <menuitem id="template_menu_root" name="Template">
+        <menuitem id="template_menu" name="Template" sequence="5"></menuitem>
+        <menuitem id="template_settings_menu" name="Settings" sequence="10"></menuitem>
+    </menuitem>
+</odoo>
